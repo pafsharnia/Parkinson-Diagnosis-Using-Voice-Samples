@@ -1,0 +1,10 @@
+numpy
+pandas
+librosa
+soundfile
+praat-parselmouth
+scikit-learn
+matplotlib
+scipy
+# Optional (Step 4 CNN only):
+tensorflow>=2.10
